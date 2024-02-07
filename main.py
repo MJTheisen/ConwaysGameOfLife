@@ -1,4 +1,11 @@
-# Michael Theisen 
+#################################################
+#                                               #
+#        Michael Theisen                        #
+#        February 6th, 2024                     #
+#        Conway's Game of Lifed Maze Game       #
+#          with help from NeuralNine            #
+#                                               # 
+#################################################
 
 import time 
 import pygame
